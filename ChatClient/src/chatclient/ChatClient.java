@@ -13,7 +13,7 @@ import chatclient.gui.Intro;
  */
 public class ChatClient {
 
-    public static final String HOST = "bdosen.ddns.net";
+    public static final String HOST = "localhost";
     public static final int PORT = 5000;
     
     /**
